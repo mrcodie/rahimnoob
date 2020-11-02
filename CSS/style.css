@@ -1,0 +1,22 @@
+body{
+    color: rgb(66, 245, 144);
+    background: white;
+    line-height: 1.6em;
+    background-image: url('../Images/bruh.jpg');
+}
+
+.phead{
+    color:orange;
+}
+
+.gg{
+    border: dashed 4px red;
+}
+
+.main-head{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.iframeclass{
+    border: 4px gold solid;
+}
